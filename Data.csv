@@ -1,0 +1,77 @@
+Algorithm,Search Time,Peak Memory,Moves
+BFS (Standard),11420.44,11562.25,45
+BFS (Standard),10698.78,11559.67,45
+BFS (Standard),11592.03,12351.99,45
+BFS (Standard),12586.87,9939.01,45
+BFS (Standard),10589.8,10149.89,45
+BFS (Standard),10589.82,11451.56,45
+BFS (Standard),12650.72,10947.14,45
+BFS (Standard),11728.12,12432.92,45
+BFS (Standard),10322.36,11064.48,45
+BFS (Standard),11472.55,10499.89,45
+Average,11365.149,11195.88,45
+,,,
+,,,
+BFS (Variant),13120.96,10872.86,45
+BFS (Variant),11222.08,13621.19,45
+BFS (Variant),11551.36,11531.63,45
+BFS (Variant),9876.06,10362.17,45
+BFS (Variant),10864.4,12467.95,45
+BFS (Variant),11600.08,10179.47,45
+BFS (Variant),10183.39,11780.66,45
+BFS (Variant),11897.33,9352.02,45
+BFS (Variant),10801.25,10059.25,45
+BFS (Variant),11148.08,11767.22,45
+Average,11226.499,11199.442,45
+,,,
+,,,
+DFS (Standard),83.52,9234.91,38451
+DFS (Standard),79.21,8588.06,38451
+DFS (Standard),77.03,8321.87,38451
+DFS (Standard),75.62,9497.23,38451
+DFS (Standard),66.68,9879.7,38451
+DFS (Standard),72.44,9788.75,38451
+DFS (Standard),74.41,8173.84,38451
+DFS (Standard),85.94,8657.27,38451
+DFS (Standard),80.52,9241.46,38451
+DFS (Standard),64.51,9829.12,38451
+Average,75.988,9121.221,38451
+,,,
+,,,
+DFS (Variant),3.83,379.97,7571
+DFS (Variant),3.95,422.93,7571
+DFS (Variant),3.58,365.47,7571
+DFS (Variant),3.55,423.9,7571
+DFS (Variant),4.35,271.15,7571
+DFS (Variant),4.57,396.79,7571
+DFS (Variant),4,369.96,7571
+DFS (Variant),4.43,355.87,7571
+DFS (Variant),4.17,370.13,7571
+DFS (Variant),3.77,294.23,7571
+Average,4.02,365.04,7571
+,,,
+,,,
+A* (Standard),259.84,224.83,53
+A* (Standard),275.32,243.96,53
+A* (Standard),305.41,207.3,53
+A* (Standard),251.82,215.51,53
+A* (Standard),244.03,214.1,53
+A* (Standard),252.27,190.59,53
+A* (Standard),290.31,229.2,53
+A* (Standard),274.56,228.43,53
+A* (Standard),251.51,222.82,53
+A* (Standard),279.52,217.56,53
+Average,268.459,219.43,53
+,,,
+,,,
+A* (Variant),796.62,196.26,53
+A* (Variant),888.4,243.01,53
+A* (Variant),895.59,245.15,53
+A* (Variant),853.19,304.52,53
+A* (Variant),912.33,238.91,53
+A* (Variant),964.49,251.11,53
+A* (Variant),1101.24,242.81,53
+A* (Variant),943.32,214.79,53
+A* (Variant),950.97,271.9,53
+A* (Variant),920.34,262.24,53
+Average,922.649,247.07,53
