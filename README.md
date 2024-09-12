@@ -1,7 +1,10 @@
-Demo video for Tile conflict
+Demo video for Tile conflict:
 
 
 ![TileConflict-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6640326e-c92d-4ce4-b26f-bf628049d472)
+
+
+User Manual:
 
 1, The final2.py consist of a Klotski game in 2 configuration including Standard Klotski and Variant Klotski, which looks the same but the tile sequence are different, this can be changed at line 84
 
